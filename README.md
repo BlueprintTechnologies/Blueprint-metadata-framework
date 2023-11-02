@@ -7,5 +7,7 @@ The Blueprint Metadata Framework is an accelerator that simplifies the data inge
 ## Overview
 ![Accelerator image](./images/blueprint-framework-overview.png)
 
+## Features
+![Accelerator image](./images/blueprint-framework-features.png)
 
 
